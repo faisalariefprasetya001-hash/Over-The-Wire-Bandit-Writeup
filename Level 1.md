@@ -7,7 +7,7 @@ Tujuan dari level ini adalah menemukan password untuk mengakses Bandit 2. Passwo
 - **Host:** `bandit.labs.overthewire.org`
 - **Port:** `2220`
 - **Username:** `bandit1`
-- **Password:** `[Masukkan password yang Anda dapatkan dari Level 0]`
+- **Password:** `6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR` Di dapatkan dari mesin bandit level 0
 
 ## 🛠️ Langkah Penyelesaian
 
