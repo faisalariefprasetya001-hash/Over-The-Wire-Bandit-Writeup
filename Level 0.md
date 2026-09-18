@@ -12,15 +12,18 @@ Tujuan dari level ini adalah menemukan password untuk mengakses level selanjutny
 ## 🛠️ Langkah Penyelesaian
 
 1. **Membuat Koneksi SSH**
+   
    Masuk ke server menggunakan kredensial yang diberikan.
    ```bash
    ssh bandit0@bandit.labs.overthewire.org -p 2220
 2. **Melihat Isi Direktori**
+   
    Setelah berhasil login, periksa file apa saja yang ada di direktori saat ini menggunakan perintah ls.
    ```bash
    bandit0@bandit:~$ ls
    readme
 3. **Membaca Isi File**
+   
    Gunakan perintah cat untuk mencetak isi teks dari file readme ke layar terminal.
    ```bash
    bandit0@bandit:~$ cat readme
@@ -32,6 +35,7 @@ Tujuan dari level ini adalah menemukan password untuk mengakses level selanjutny
 
    The password you are looking for is: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 4. **Menutup Sesi**
+   
    Salin password yang muncul, lalu tutup koneksi dari server bandit0 sebelum melanjutkan ke level berikutnya.
    ```bash
    bandit0@bandit:~$ exit
@@ -44,5 +48,5 @@ Tujuan dari level ini adalah menemukan password untuk mengakses level selanjutny
 - `exit`: Menutup sesi shell saat ini secara aman dan memutuskan koneksi dari server remote.
 
 ## 🚩 Flag / Password Level 1
-password untuk login ke mesin bandit level 1
+Password untuk login ke mesin bandit level 1
 - 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
