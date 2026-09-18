@@ -41,4 +41,5 @@ alih-      alih membaca file.
 - `./` : Titik mewakili current directory (direktori tempat Anda berada saat ini) dan garis miring adalah pemisah folder. Menambahkan `./` di depan nama file memaksa sistem operasi dan perintah cat untuk membaca karakter berikutnya murni sebagai nama file (sebagai objek), bukan sebagai sebuah parameter perintah.
   
 ## 🚩 Flag / Password Level 2
+Password untuk login mesin bandit level 2
 - PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
