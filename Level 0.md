@@ -39,9 +39,9 @@ Tujuan dari level ini adalah menemukan password untuk mengakses level selanjutny
    
 ## 📖 Penjelasan Perintah
 
-- ls (List): Perintah dasar Linux untuk menampilkan daftar file dan folder di dalam direktori aktif.
-- cat (Concatenate): Perintah standar untuk membaca isi file teks dan menampilkannya secara langsung di terminal tanpa membuka teks editor
-- exit: Menutup sesi shell saat ini secara aman dan memutuskan koneksi dari server remote.
+- `ls` (List): Perintah dasar Linux untuk menampilkan daftar file dan folder di dalam direktori aktif.
+- `cat` (Concatenate): Perintah standar untuk membaca isi file teks dan menampilkannya secara langsung di terminal tanpa membuka teks editor
+- `exit`: Menutup sesi shell saat ini secara aman dan memutuskan koneksi dari server remote.
 
 ## 🚩 Flag / Password Level 1
 password untuk login ke mesin bandit level 1
